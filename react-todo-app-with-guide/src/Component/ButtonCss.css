@@ -1,0 +1,19 @@
+.count-btn{
+    height:40px;
+    width:150px;
+    background-color: rgb(28, 4, 4);
+    color:white;
+    font-size:20px;
+    border: 1px solid white;
+    border-radius:20px;
+}
+.curr-count{
+    height: 60px;
+    background-color:rgb(108, 21, 21);
+    color:white;
+    margin: 0% 30%;
+    padding: 20px 0px;
+    border-radius: 5px;
+    margin-bottom:  50px;
+    font-size:22px;
+}
